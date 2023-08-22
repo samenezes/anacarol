@@ -1,0 +1,22 @@
+.header {
+    display: grid;
+    justify-items: center;
+    width: 100vw;
+    height: 5vh;
+    align-items: center;
+    background-color: rgb(153, 74, 228);
+    color: white;
+}
+
+p{
+    text-align: center;
+    font: 25px;
+    font-weight: 600;
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
